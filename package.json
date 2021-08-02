@@ -1,0 +1,24 @@
+{
+  "name": "monit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandevelop85/monit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juandevelop85/monit/issues"
+  },
+  "homepage": "https://github.com/juandevelop85/monit#readme",
+  "dependencies": {
+    "socket.io": "^4.1.3",
+    "systeminformation": "^5.8.0"
+  }
+}
